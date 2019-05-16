@@ -13,7 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @SpringBootApplication
 @EnableSwagger2
 public class SpringbootwebdemoApplication {
-
+	// swagger documentation enabled
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootwebdemoApplication.class, args);
 	}
